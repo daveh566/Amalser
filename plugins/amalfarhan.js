@@ -10,7 +10,7 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
-Amalser.addCommand({pattern: 'help', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Amalser.addCommand({pattern: 'aspirerx', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
@@ -221,7 +221,7 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 ┣𝕾⃝🌺 .ɪɴᴠɪᴛᴇ
 ┣𝕾⃝🌺 .sᴇᴛᴠᴀʀ
 │ 
-│Support:t.me/KayAspirerProject|
+
 │  📍ASPIRERX BOT2021📍
 ╰──────────────────╯
 `}) 
