@@ -21,7 +21,7 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
         {buttonId: 'id1', buttonText: {displayText: 'Hic}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: 'Ownercmd 🔰\n\n*AspirerXBot has two types of alive message*\n\n*Hi i am live {pp}*\n\n*Hi i am alive {qt}*\n\n*welcome message addedd simple way*\n\n*.welcome {pp} {gphead} {gpmaker} {gpdesc}{owner}*\n\n*Another way*\n*.welcome {gif} {gphead} {gpmaker} {gpdesc} {time} {owner}*\n\n*Broadcast adedd replay with any message .bc*\n\n*Alive message time set*\n\n*Button message added .bot and .help*\n\n*All type of downloading command example .yt, .video, .song, .get*\n\n '}, type: 1},
-        {buttonId: 'id3', buttonText: {displayText: 'Support 🔰\n\n```My support group: https://https://t.me/kayaspirerproject```\n\n```Follow the owner on twitter: @marangadavid2```\n\n```Why me?:  I'm the most advanced bot to help you manage your gcs```\n'  }, type: 1},
+        {buttonId: 'id3', buttonText: {displayText: 'GIT 🍃\n\n```youtube Video: https://youtu.be/5MKycJxmA4c```\n\n```Support link: https://t.me/kayspirerproject```\n\n```YT_PASSWORD:  password in youtube channel video watch it full and subcribe for more updations```\n'  }, type: 1},
 
       ]
       
